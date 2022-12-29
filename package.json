@@ -1,0 +1,15 @@
+{
+  "name": "wabot",
+  "version": "1.0.0",
+  "description": "wa bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ikhsan",
+  "license": "ISC",
+  "dependencies": {
+    "@adiwajshing/baileys": "^4.4.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
